@@ -1,6 +1,6 @@
-#This is my personal project Donation Receipt Auto Transaction.
+# Personal Project, Donation Receipt Auto Transaction
 
-###I read and iterated through all the information in given input files, and generate hundreds of individual donation receipts.
+### I read and iterated through all the information in given input files, and generate hundreds of individual donation receipts.
 
 
 <div>
